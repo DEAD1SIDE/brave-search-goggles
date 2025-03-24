@@ -6,15 +6,15 @@
 ! avatar: #4B2D8D
 
 #Windows
-|https://docs.microsoft.com/^$boost=3
-|https://learn.microsoft.com/^$boost=3
+|https://docs.microsoft.com^$boost=3
+|https://learn.microsoft.com^$boost=3
 windows server$incontent,$boost=2
 active directory$incontent,$boost=2
 powershell$incontent,$boost=1
 
 
 #Linux
-|https://serverfault.com/^$boost=3
+|https://serverfault.com^$boost=3
 /ubuntu.com|$boost=3
 /ubuntuusers.de|$boost=3
 /proxmox.com|$boost=3
