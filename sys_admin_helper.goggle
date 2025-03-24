@@ -6,20 +6,20 @@
 ! avatar: #4B2D8D
 
 #Windows
-|https://docs.microsoft.com^$boost=3
-|https://learn.microsoft.com^$boost=3
-windows server$incontent,$boost=2
-active directory$incontent,$boost=2
-powershell$incontent,$boost=1
+|https://docs.microsoft.com^$boost=10
+|https://learn.microsoft.com^$boost=10
+windows server$incontent,$boost=10
+active directory$incontent,$boost=10
+powershell$incontent,$boost=10
 
 
 #Linux
-|https://serverfault.com^$boost=3
-/ubuntu.com|$boost=3
-/ubuntuusers.de|$boost=3
-/proxmox.com|$boost=3
-/suse.com|$boost=3
-/redhat.com|$boost=3
-linux server$incontent,$boost=2
-debian$incontent,$boost=2
-ubuntu$incontent,$boost=2
+|https://serverfault.com^$boost=10
+/ubuntu.com|$boost=10
+/ubuntuusers.de|$boost=10
+/proxmox.com|$boost=10
+/suse.com|$boost=10
+/redhat.com|$boost=10
+linux server$incontent,$boost=10
+debian$incontent,$boost=10
+ubuntu$incontent,$boost=10
