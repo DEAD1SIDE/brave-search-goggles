@@ -1,0 +1,19 @@
+! name: Windows and Linux Server
+! description: Boosting results for Linux and Windows server
+! public: false
+! author: DEAD1SIDE
+
+#Windows
+|https://docs.microsoft.com/^$boost=3
+|https://learn.microsoft.com/^$boost=3
+windows server$incontent,$boost=2
+
+
+#Linux
+|https://serverfault.com/^$boost=3
+/ubuntu.com|$boost=3
+/ubuntuusers.de|$boost=3
+/proxmox.com|$boost=3
+/suse.com|$boost=3
+/redhat.com|$boost=3
+linux server$incontent,$boost=2
