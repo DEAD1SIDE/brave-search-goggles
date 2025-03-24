@@ -7,6 +7,9 @@
 |https://docs.microsoft.com/^$boost=3
 |https://learn.microsoft.com/^$boost=3
 windows server$incontent,$boost=2
+active directory$incontent,$boost=2
+powershell$incontent,$boost=1
+powershell$incontent,$boost=1
 
 
 #Linux
@@ -17,3 +20,5 @@ windows server$incontent,$boost=2
 /suse.com|$boost=3
 /redhat.com|$boost=3
 linux server$incontent,$boost=2
+debian$incontent,$boost=2
+ubuntu$incontent,$boost=2
