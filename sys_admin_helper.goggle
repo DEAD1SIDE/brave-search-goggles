@@ -2,6 +2,8 @@
 ! description: Boosting results for Linux and Windows server
 ! public: false
 ! author: DEAD1SIDE
+! issues: https://github.com/DEAD1SIDE/brave-search-goggles
+! avatar: #4B2D8D
 
 #Windows
 |https://docs.microsoft.com/^$boost=3
