@@ -9,7 +9,6 @@
 windows server$incontent,$boost=2
 active directory$incontent,$boost=2
 powershell$incontent,$boost=1
-powershell$incontent,$boost=1
 
 
 #Linux
